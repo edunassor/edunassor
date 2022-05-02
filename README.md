@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edunassor
+- 👋 Hello, I’m Eduardo!
 - 👀 I’m interested in sustainable technologies, ecosocialism, ecological Marxism, music, series and social movements.
 - 🌱 I’m currently learning Systems Development, Front-end Web Development, Political Socialism and Renewable Energy.
 - 💞️ I’m looking to collaborate on projects that help the world to develop sustainable and accessible technologies for the 
